@@ -9,3 +9,4 @@ take an image converts it to the middle of the network which has 10 doubles
 the decodes this back to an image. The program works by taking that middle
 layer of 10 doubles and check to see what is the closest 3 to it. I then
 finds what number that those were and finds out what number itself is.
+Its 50% accurate but I made it all pretty much from scratch
